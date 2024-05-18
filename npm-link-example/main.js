@@ -1,3 +1,5 @@
 const packageA = require("package-a");
+const packageB = require("package-b");
 
-console.log(packageA);
+console.log("package A", packageA);
+console.log("package B", packageB);
