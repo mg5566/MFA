@@ -10,35 +10,56 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".gitignore",
-        "hash": "16722851342459420272"
-      },
-      {
-        "file": "pnpm-workspace.yaml",
-        "hash": "414265049992887245"
-      },
-      {
-        "file": "nx.json",
-        "hash": "7545590695998307853"
+        "file": "package.json",
+        "hash": "8492782700622703973"
       },
       {
         "file": "pnpm-lock.yaml",
         "hash": "7543233978824811072"
       },
       {
-        "file": "package.json",
-        "hash": "8492782700622703973"
+        "file": "pnpm-workspace.yaml",
+        "hash": "414265049992887245"
       },
       {
         "file": ".nx/workspace-data/d/server-process.json",
-        "hash": "4234963991623939644"
+        "hash": "16851108493638345832"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16722851342459420272"
       },
       {
         "file": "lerna.json",
         "hash": "8379965835595625321"
+      },
+      {
+        "file": "nx.json",
+        "hash": "7545590695998307853"
       }
     ],
     "projectFileMap": {
+      "b": [
+        {
+          "file": "packages/b/README.md",
+          "hash": "7896783350214521062"
+        },
+        {
+          "file": "packages/b/__tests__/b.test.js",
+          "hash": "10880973687683149757"
+        },
+        {
+          "file": "packages/b/lib/b.js",
+          "hash": "8502011105474068031"
+        },
+        {
+          "file": "packages/b/package.json",
+          "hash": "1569638975544246460",
+          "deps": [
+            "npm:axios"
+          ]
+        }
+      ],
       "a": [
         {
           "file": "packages/a/README.md",
@@ -61,27 +82,6 @@
           "hash": "14733662802886461283",
           "deps": [
             "b"
-          ]
-        }
-      ],
-      "b": [
-        {
-          "file": "packages/b/README.md",
-          "hash": "7896783350214521062"
-        },
-        {
-          "file": "packages/b/__tests__/b.test.js",
-          "hash": "10880973687683149757"
-        },
-        {
-          "file": "packages/b/lib/b.js",
-          "hash": "8502011105474068031"
-        },
-        {
-          "file": "packages/b/package.json",
-          "hash": "1569638975544246460",
-          "deps": [
-            "npm:axios"
           ]
         }
       ]

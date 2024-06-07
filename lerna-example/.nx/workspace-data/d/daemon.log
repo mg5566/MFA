@@ -432,3 +432,38 @@ TypeError: Cannot read properties of undefined (reading 'forEach')
 [NX Daemon Server] - 2024-06-06T03:49:20.838Z - Handled RECORD_OUTPUTS_HASH. Handling time: 0. Response time: 0.
 [NX Daemon Server] - 2024-06-06T03:49:20.842Z - Closed a connection. Number of open connections: 5
 [NX Daemon Server] - 2024-06-06T03:51:59.210Z - Closed a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-06-07T10:45:36.339Z - Started listening on: /var/folders/78/k3jz90t16cd7nph6bf3p3x3m0000gn/T/acb434efd79c29ea2448/d.sock
+[NX Daemon Server] - 2024-06-07T10:45:36.340Z - [WATCHER]: Subscribed to changes within: /Users/mike/goinfre/MFA/lerna-example (native)
+[NX Daemon Server] - 2024-06-07T10:45:36.341Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-07T10:45:36.342Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-07T10:45:36.342Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-07T10:45:36.343Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-07T10:45:36.352Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-07T10:45:36.352Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-07T10:45:36.352Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-07T10:45:36.742Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.743Z - Time taken for 'total for creating and serializing project graph' 399.6146249771118ms
+[NX Daemon Server] - 2024-06-07T10:45:36.743Z - [WATCHER]: .nx/workspace-data/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-06-07T10:45:36.744Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.744Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 399. Response time: 2.
+[NX Daemon Server] - 2024-06-07T10:45:36.745Z - [REQUEST]: Responding to the client. handleContextFileData
+[NX Daemon Server] - 2024-06-07T10:45:36.745Z - Done responding to the client handleContextFileData
+[NX Daemon Server] - 2024-06-07T10:45:36.745Z - Handled GET_CONTEXT_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-06-07T10:45:36.745Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - [REQUEST]: .nx/workspace-data/d/server-process.json
+[NX Daemon Server] - 2024-06-07T10:45:36.755Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-07T10:45:36.762Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.762Z - Time taken for 'total for creating and serializing project graph' 6.396457672119141ms
+[NX Daemon Server] - 2024-06-07T10:45:36.762Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.762Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 7. Response time: 0.
+[NX Daemon Server] - 2024-06-07T10:45:36.763Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-07T10:45:36.763Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.764Z - Time taken for 'total for creating and serializing project graph' 0.052249908447265625ms
+[NX Daemon Server] - 2024-06-07T10:45:36.764Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-07T10:45:36.764Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-07T10:45:36.765Z - Established a connection. Number of open connections: 2

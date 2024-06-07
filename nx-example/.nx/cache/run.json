@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build my-app --verbose",
+    "startTime": "2024-06-07T10:52:38.353Z",
+    "endTime": "2024-06-07T10:52:44.364Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "my-app:build",
+      "target": "build",
+      "projectName": "my-app",
+      "hash": "5111998570370394393",
+      "startTime": "2024-06-07T10:52:38.356Z",
+      "endTime": "2024-06-07T10:52:44.364Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}
